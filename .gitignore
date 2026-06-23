@@ -1,0 +1,10 @@
+# Data files
+datathon-2026/
+*.csv
+!submission*.csv
+
+# Cache and checkpoints
+.ipynb_checkpoints/
+catboost_info/
+__pycache__/
+.optuna.db
